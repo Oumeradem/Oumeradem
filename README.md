@@ -1,12 +1,37 @@
 ## Hi, I’m Oumer 👋  
-**Software Quality Assurance Engineer (Manual & Automation)**
+Aspiring Engineer | QA Testing | Automation | Backend Fundamentals
 
-🧪 Manual Testing | 🤖 Test Automation | 📋 ISTQB | 🔧 CompTIA A+
+I am an adaptable professional transitioning into software engineering with a foundation in full-stack development, software testing, and AI-assisted workflows. My experience in high-pressure operations, logistics, and compliance has shaped my attention to detail, problem-solving ability, and commitment to quality.
 
-- Hands-on experience in manual testing, including test case design, regression testing, and defect tracking across web applications
-- Designed and maintained automated test suites using Playwright and Selenium (JavaScript) to improve test coverage and reliability
-- Performed API testing and validation using Postman, ensuring data accuracy and backend reliability
-- Strong working knowledge of SDLC and STLC, with experience operating in Agile/Scrum environments alongside cross-functional teams
+## What I'm Focused On
+- Quality Assurance Engineering
+- Test Automation with Playwright and Selenium
+- Backend and API fundamentals
+- AI-assisted development and testing workflows
+
+## Tech Stack
+**Languages:** Python, Java, JavaScript, SQL  
+**Testing:** Manual Testing, Automated Testing, Regression Testing, Selenium, Playwright  
+**Backend:** APIs, MySQL, MongoDB  
+**Tools:** GitHub, Jira, Agile/Scrum, CI/CD Fundamentals  
+
+## Currently Building
+- QA and automation portfolio projects
+- Real-world testing workflows
+- Stronger backend and engineering foundations
+
+## Professional Background
+Before transitioning into tech, I spent over 10 years in high-stakes logistics and customer operations in Seattle, including Sea-Tac International Airport. That experience strengthened my ability to work under pressure, solve real-time problems, and deliver consistent, high-quality results.
+
+## Education
+- Full-Stack Web Development — Coding Dojo
+- IT Support Specialist — Per Scholas
+
+## Connect With Me
+- Email: oumer.adamye@gmail.com
+- www.linkedin.com/in/oumer-adem
+
+Thanks for visiting my profile.
 
 ### 🛠 Tech Stack
 
