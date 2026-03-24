@@ -29,7 +29,7 @@ Before transitioning into tech, I spent over 10 years in high-stakes logistics a
 
 ## Connect With Me
 - Email: oumer.adamye@gmail.com
-- www.linkedin.com/in/oumer-adem
+- LinkedIn: www.linkedin.com/in/oumer-adem
 
 Thanks for visiting my profile.
 
