@@ -31,8 +31,6 @@ Before transitioning into tech, I spent over 10 years in high-stakes logistics a
 - Email: oumer.adamye@gmail.com
 - LinkedIn: www.linkedin.com/in/oumer-adem
 
-Thanks for visiting my profile.
-
 ### 🛠 Tech Stack
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
