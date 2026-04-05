@@ -1,5 +1,5 @@
 ## Hi, I’m Oumer 👋  
-Aspiring Engineer | QA Testing | Automation | Backend Fundamentals
+Aspiring software development | QA Testing | Automation | Backend Fundamentals
 
 I am an adaptable professional transitioning into software engineering with a foundation in full-stack development, software testing, and AI-assisted workflows. My experience in high-pressure operations, logistics, and compliance has shaped my attention to detail, problem-solving ability, and commitment to quality.
 
