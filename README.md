@@ -8,9 +8,9 @@ I am an adaptable professional transitioning into software engineering with a fo
 ## 🚀 Projects
 
 ### 🍅 Tomato - Food Delivery App
-Full-stack food delivery web application built with React, Node.js, Express, and MongoDB.
-Features: user authentication, cart management, Stripe payments, order tracking.
-**Live Demo:** https://tomato-food-delivery-zeta.vercel.app
+Full-stack food delivery app built with React, Node.js, Express, and MongoDB.
+Features: user authentication, cart management, Stripe payments, and order tracking.
+🔗 Live Demo: https://tomato-food-delivery-zeta.vercel.app
 
 ### 🤖 Customer Support Chatbot
 Full-stack customer support chatbot built with React, Node.js, Express, and MongoDB.
