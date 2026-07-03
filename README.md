@@ -13,6 +13,8 @@ Features: user authentication, cart management, Stripe payments, order tracking.
 **Live Demo:** https://tomato-food-delivery-zeta.vercel.app
 
 ### 🤖 Customer Support Chatbot
+Full-stack customer support chatbot built with React, Node.js, Express, and MongoDB.
+Features: real-time chat, automated responses, conversation history.
 **Live Demo:** https://oumeradem.github.io/customer-support-chatbot/
 
 ---
