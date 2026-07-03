@@ -67,3 +67,5 @@ Before transitioning into tech, I spent over 10 years in high-stakes logistics a
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white)
+![ISTQB](https://img.shields.io/badge/ISTQB-009A44?style=for-the-badge&logo=istqb&logoColor=white)
+![CompTIA A+](https://img.shields.io/badge/CompTIA_A+-C8202F?style=for-the-badge&logo=comptia&logoColor=white)
