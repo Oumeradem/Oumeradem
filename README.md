@@ -61,13 +61,13 @@ Real-time chat app tested with Playwright UI automation and Postman API testing.
 
 ## 🏆 Certifications
 [![ISTQB](https://img.shields.io/badge/ISTQB-CTFL-009A44?style=for-the-badge&logoColor=white)](https://istqb.org)
-[![CompTIA](https://img.shields.io/badge/CompTIA-A+-C8202F?style=for-the-badge&logo=comptia&logoColor=white)](https://comptia.org)
+![CompTIA](https://img.shields.io/badge/CompTIA-A+-C8202F?style=for-the-badge&logo=comptia&logoColor=white)
 
 ---
 
 ## 📚 Education
-- Full-Stack Web Development — Coding Dojo
-- IT Support Specialist — Per Scholas
+- Full-Stack Web Development - Coding Dojo
+- IT Support Specialist - Per Scholas
 
 ---
 
