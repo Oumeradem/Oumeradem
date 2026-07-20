@@ -1,37 +1,44 @@
-# Hi, I'm Oumer 👋
-### Aspiring Software Engineer | QA Testing | Automation | Backend Fundamentals
+# Hi, I'm Oumer Adem 👋
 
-I am an adaptable professional transitioning into software engineering with a foundation in full-stack development, software testing, and AI-assisted workflows. My experience in high-pressure operations, logistics, and compliance has shaped my attention to detail, problem-solving ability, and commitment to quality.
+**QA Automation Engineer | Playwright • Cucumber BDD • Jenkins CI/CD | MERN Stack Developer**
+
+I'm a software engineer transitioning from 10+ years in high-stakes logistics operations at Sea-Tac International Airport. That background gave me exceptional attention to detail, problem-solving under pressure, and a quality-first mindset — now applied to software testing and development.
+
+---
+
+## 🧪 Featured Project — E2E Test Automation Framework
+
+**29-step BDD test suite** validating a full-stack food delivery app from registration through Stripe payment confirmation.
+
+- ✅ Playwright + Cucumber BDD + TypeScript
+- ✅ Page Object Model architecture
+- ✅ Real Stripe payment iframe automation
+- ✅ Faker.js for data-driven testing
+- ✅ Jenkins CI/CD pipeline running daily
+
+👉 [View Test Repo](https://github.com/Oumeradem/food-delivery-tests) | [▶️ Watch Demo](https://youtu.be/S0vs8daK1rw)
 
 ---
 
 ## 🚀 Projects
 
-### 🍅 Tomato - Food Delivery App
-Full-stack food delivery app built with React, Node.js, Express, and MongoDB.
-Features: user authentication, cart management, Stripe payments, and order tracking.
-🔗 Live Demo: https://tomato-food-delivery-zeta.vercel.app
+### 🍅 Tomato — Food Delivery App
+Full-stack MERN app with Stripe payments, user authentication, cart management, and order tracking.
+[Live Demo](https://tomato-food-delivery-zeta.vercel.app) | [GitHub](https://github.com/Oumeradem/food-del)
 
 ### 🤖 Customer Support Chatbot
-Full-stack customer support chatbot built with React, Node.js, Express, and MongoDB.
-Features: real-time chat, automated responses, conversation history.
-**Live Demo:** https://oumeradem.github.io/customer-support-chatbot/
-
----
-
-## 🎯 What I'm Focused On
-- Quality Assurance Engineering
-- Test Automation with Playwright and Selenium
-- Backend and API fundamentals
-- AI-assisted development and testing workflows
+Real-time chat with automated responses and conversation history. Built with React, Node.js, MongoDB.
+[Live Demo](https://oumeradem.github.io/customer-support-chatbot/) | [GitHub](https://github.com/Oumeradem/customer-support-chatbot)
 
 ---
 
 ## 🛠 Tech Stack
-**Languages:** Python, Java, JavaScript, SQL
-**Testing:** Manual Testing, Automated Testing, Regression Testing, Selenium, Playwright
-**Backend:** APIs, MySQL, MongoDB
-**Tools:** GitHub, Jira, Agile/Scrum, CI/CD Fundamentals
+
+**Testing:** Playwright • Cucumber BDD • Selenium • Jenkins • TypeScript • Faker.js • Page Object Model
+
+**Development:** React • Node.js • Express • MongoDB • JavaScript • REST APIs
+
+**Tools:** Git • GitHub • Postman • Jira • Agile/Scrum
 
 ---
 
@@ -41,14 +48,9 @@ Features: real-time chat, automated responses, conversation history.
 
 ---
 
-## 💼 Professional Background
-Before transitioning into tech, I spent over 10 years in high-stakes logistics and customer operations in Seattle, including Sea-Tac International Airport. That experience strengthened my ability to work under pressure, solve real-time problems, and deliver consistent, high-quality results.
-
----
-
 ## 📬 Connect With Me
-- Email: oumer.adamye@gmail.com
-- LinkedIn: [www.linkedin.com/in/oumer-adem](https://www.linkedin.com/in/oumer-adem)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oumer-adem)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oumer.adamye@gmail.com)
 
 
 ## 🛠 Tech Stack
