@@ -2,7 +2,7 @@
 
 **QA Automation Engineer | Playwright • Cucumber BDD • Jenkins CI/CD | MERN Stack Developer**
 
-I'm a software engineer transitioning from 10+ years in high-stakes logistics operations at Sea-Tac International Airport. That background gave me exceptional attention to detail, problem-solving under pressure, and a quality-first mindset — now applied to software testing and development.
+I'm a software engineer transitioning from 6+ years in high-stakes logistics operations at Sea-Tac International Airport. That background gave me exceptional attention to detail, problem-solving under pressure, and a quality-first mindset — now applied to software testing and development.
 
 ---
 
