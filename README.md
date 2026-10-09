@@ -32,11 +32,11 @@ An agentic QA automation framework: AI agents plan and run Playwright + Cucumber
 
 ### 🤖 Tomato Agentic QA (AI-Agent Test Automation)
 AI agents plan, generate, and run Playwright + Cucumber BDD tests against a practice food-delivery app, with CI on GitHub Actions.
-[GitHub](https://github.com/Oumeradem/tomato-agentic-qa) | [▶️ Watch Demo](https://youtu.be/IBtQbzwBVxI)
+[GitHub](https://github.com/Oumeradem/tomato-agentic-qa)
 
 ### 🍅 Tomato — Food Delivery App (with Full E2E Test Suite)
 Full-stack MERN app with Stripe payments — tested end-to-end with Playwright and Cucumber BDD.
-[Live Demo](https://tomato-food-delivery-zeta.vercel.app) | [GitHub](https://github.com/Oumeradem/food-del) | [Test Suite](https://github.com/Oumeradem/food-delivery-tests)
+[Live App](https://tomato-food-delivery-zeta.vercel.app) | [GitHub](https://github.com/Oumeradem/food-del) | [Test Suite](https://github.com/Oumeradem/food-delivery-tests)
 
 ---
 
