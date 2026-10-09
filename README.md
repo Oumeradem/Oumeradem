@@ -14,7 +14,7 @@ An agentic QA automation framework: AI agents plan and run Playwright + Cucumber
 
 ---
 
-## 🧪 Featured Project — E2E Test Automation Framework
+## 🧪 Featured Project: E2E Test Automation Framework
 
 **29-step BDD test suite** validating a full-stack food delivery app from registration through Stripe payment confirmation.
 
