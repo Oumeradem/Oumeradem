@@ -6,14 +6,15 @@ I'm a software test automation engineer transitioning from 6+ years in high-stak
 
 ---
 
-## 🧪 Featured Project — E2E Test Automation Framework
-
-
 ## 🤖 Latest Project: Tomato Agentic QA
 
 An agentic QA automation framework: AI agents plan and run Playwright + Cucumber BDD tests, with GitHub Actions CI and screenshot and video evidence for every scenario.
 
 [View the repo](https://github.com/Oumeradem/tomato-agentic-qa) | [Watch the demo](https://youtu.be/IBtQbzwBVxI)
+
+---
+
+## 🧪 Featured Project — E2E Test Automation Framework
 
 **29-step BDD test suite** validating a full-stack food delivery app from registration through Stripe payment confirmation.
 
@@ -28,6 +29,10 @@ An agentic QA automation framework: AI agents plan and run Playwright + Cucumber
 ---
 
 ## 🚀 Projects
+
+### 🤖 Tomato Agentic QA (AI-Agent Test Automation)
+AI agents plan, generate, and run Playwright + Cucumber BDD tests against a practice food-delivery app, with CI on GitHub Actions.
+[GitHub](https://github.com/Oumeradem/tomato-agentic-qa) | [Demo](https://youtu.be/IBtQbzwBVxI)
 
 ### 🍅 Tomato — Food Delivery App (with Full E2E Test Suite)
 Full-stack MERN app with Stripe payments — tested end-to-end with Playwright and Cucumber BDD.
@@ -69,7 +74,6 @@ Real-time chat app tested with Playwright UI automation and Postman API testing.
 ## 🏆 Certifications
 [![ISTQB](https://img.shields.io/badge/ISTQB-CTFL-009A44?style=for-the-badge&logoColor=white)](https://istqb.org)
 [![CompTIA A+](https://img.shields.io/badge/CompTIA_A%2B-C8202F?style=for-the-badge&logoColor=white)](https://www.credly.com/org/comptia/badge/comptia-a-ce-certification)
-
 
 ---
 
