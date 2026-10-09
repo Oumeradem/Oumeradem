@@ -8,6 +8,13 @@ I'm a software test automation engineer transitioning from 6+ years in high-stak
 
 ## 🧪 Featured Project — E2E Test Automation Framework
 
+
+## 🤖 Latest Project: Tomato Agentic QA
+
+An agentic QA automation framework: AI agents plan and run Playwright + Cucumber BDD tests, with GitHub Actions CI and screenshot and video evidence for every scenario.
+
+[View the repo](https://github.com/Oumeradem/tomato-agentic-qa) | [Watch the demo](https://youtu.be/IBtQbzwBVxI)
+
 **29-step BDD test suite** validating a full-stack food delivery app from registration through Stripe payment confirmation.
 
 - ✅ Playwright + Cucumber BDD + TypeScript
